@@ -29,6 +29,9 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
+fun heyhello(){
+    print("heyyy hi")
+}
 
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
