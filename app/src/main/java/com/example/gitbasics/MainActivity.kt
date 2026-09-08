@@ -30,7 +30,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 fun heyhello(){
-    print("heyyy hi")
+    print("hello from MAIN branch")
 }
 
 @Composable
