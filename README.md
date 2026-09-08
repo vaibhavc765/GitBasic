@@ -1,2 +1,2 @@
 # GitBasic
-This project is maintained by Vaibhav.
+This project is maintained by the Core Platform team.
