@@ -53,3 +53,5 @@ fun GreetingPreview() {
 // doing some stuff here tfor the conflic
 //moreeeehjh jf
 //got some more chnages
+
+//lets do some studies
