@@ -42,7 +42,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
     )
 }
 //in this branch we are going to do the merhging stuff
-
+//there is much more to know
 @Preview(showBackground = true)
 @Composable
 fun GreetingPreview() {
